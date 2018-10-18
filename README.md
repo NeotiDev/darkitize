@@ -24,4 +24,5 @@ After that, make a Pull Request.. We'll check the style file and merge it!
 ## How do i get in contact?
 
 We have a Discord server!
+
 [Invite Code : NqMA6xC](https://discord.gg/NqMA6xC)
